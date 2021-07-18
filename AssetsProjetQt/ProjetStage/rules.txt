@@ -1,0 +1,13 @@
+------------------------------------TOUCHES------------------------------------
+Configuration :
+
+- Selectionez votre coup avec le *click gauche*
+- Appuyez sur *espace* pour continuer
+- Apres l'ecran de fin, appuyez sur *entrer*
+
+******************** REGLES **********************
+Principe du pierre/feuille/ciseaux version "radio"
+
+Le MICRO bat la RADIO
+La RADIO bat l'ANTENNE
+L'ANTENNE bat le MICRO

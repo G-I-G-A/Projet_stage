@@ -1,0 +1,10 @@
+------------------------------------SCORES------------------------------------
+Nom Joueur : Paul 
+Score : 190
+Nom Joueur : John
+Score : 130
+Nom Joueur : Stephane
+Score : 140
+Nom Joueur : hugo
+Score : 100
+
